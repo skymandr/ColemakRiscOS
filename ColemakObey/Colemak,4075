@@ -1,3 +1,4 @@
+RMEnsure KeyMapper 0.01 RMLoad System:Modules.KeyMapper
 KeyMap 93 30
 KeyMap 41 63
 KeyMap 67 41
@@ -16,4 +17,5 @@ KeyMap 63 43
 KeyMap 45 68
 KeyMap 68 46
 KeyMap 46 45
+| The distro I use map right-alt to \, this resets it:
 KeyMap 96 96
